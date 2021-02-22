@@ -1,0 +1,95 @@
+body {
+    background-color: dimgrey;
+    margin: 0;
+
+}
+
+
+/*h1, h2, h3, h4, h5, h6, p {
+    font-family:'Roboto', sans-serif;
+    color: #111;
+    line-height: 24px;
+
+}*/
+
+
+
+input {
+    width: 300px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.signup-form {
+    background-color: #a9a9a9;
+    padding: 10px;
+
+}
+
+.signup-form-form {
+
+    list-style-type:none;
+    display: flex;
+    justify-content: center;
+
+}
+
+.header  {
+    background-color: 	black;
+    text-align: right;
+    margin: 0;
+    padding: 1px;
+
+}
+.header li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    margin: 0;
+    color: white;
+    text-decoration: none;
+
+}
+.header a {
+    color: white;
+    text-decoration: none;
+}
+
+.signup-form {
+    position: center;
+    margin: 0;
+}
+
+.index-categories {
+    background-color: #a9a9a9;
+    padding: 10px;
+}
+
+.create-items  {
+
+    list-style-type:none;
+    display: flex;
+    justify-content: center;
+}
+.create-items ul {
+    list-style-type: none;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+table, td, th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
